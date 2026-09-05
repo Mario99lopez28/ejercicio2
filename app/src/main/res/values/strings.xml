@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day By Day</string>
+    <string name="notification_channel_name">Recordatorios de tareas</string>
+    <string name="notification_channel_description">Avisos cuando llega la hora de una tarea programada</string>
+</resources>
